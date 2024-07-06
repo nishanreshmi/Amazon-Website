@@ -153,7 +153,7 @@
 
 .bkcolor{
     background-color: #e2e2e2;
-    height: 1450px;
+    height: 1510px;
 }
 
 .herosection{
@@ -336,6 +336,7 @@ h1{
     margin-left: 18px;
     margin-right: 18px;
     background-color: white;
+
 }
 
 .herobox2{
@@ -356,7 +357,42 @@ h1{
 /** fourthboxsection **/ 
 
 .fourthbox{
+   display: flex;
+   justify-content: space-around;
+   margin-left: 6px;
+   margin-right: 6px;
+   position: relative;
+   top: 2%;
 
+
+}
+
+.fourthshoopingbox1{
+    height: 310px;
+    width: 23%;
+    background-color: white;
+   
+}
+
+.fourthshoopingbox2{
+
+    height: 310px;
+    width: 23%;
+    background-color: white;
+}
+
+.fourthshoopingbox3{
+
+    height: 310px;
+    width: 23%;
+    background-color: white;
+}
+
+.fourthshoopingbox4{
+
+    height: 310px;
+    width: 23%;
+    background-color: white;
 }
 
 /** footerpanel **/ 
