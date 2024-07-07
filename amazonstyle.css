@@ -374,6 +374,61 @@ h1{
    
 }
 
+.innershopbox1{
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 99%;
+    border: 2px solid black;
+
+}
+
+.innerheadingtext{
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.innerboxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+}
+
+.innerbox1{
+    border: 2px solid black;
+    width: 40%;
+    height: 100px;
+    margin-bottom: 27px;
+
+}
+
+.innerbox2{
+    border: 2px solid black;
+    width: 40%;
+    height: 100px;
+    margin-bottom: 27px;    
+    
+}
+
+.innerbox3{
+    border: 2px solid black;
+    width: 40%;
+    height: 100px;
+    margin-bottom: 10px;
+    
+}
+
+.innerbox4{
+    border: 2px solid black;
+    width: 40%;
+    height: 100px;   
+    
+}
+
+.innerdowntext{
+    font-size: 0.81rem;
+}
+
 .fourthshoopingbox2{
 
     height: 310px;
